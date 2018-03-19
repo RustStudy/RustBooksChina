@@ -14,6 +14,7 @@
 ### 社区电子书
 
 - [《RustPrimer》](https://github.com/rustcc/RustPrimer)
+- [《Sapper Web开发》（写作中）]()
 
 ### 官方资料翻译
 
