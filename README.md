@@ -26,6 +26,6 @@
 
 ### 优秀博客与专栏
 
-- [Rust编程 @ 知乎](https://zhuanlan.zhihu.com/rust-lang)
-- [学Rust不会怀孕系列 @ 知乎](https://zhuanlan.zhihu.com/p/26379949)
-- [Rust 之不可为 @ 知乎](https://zhuanlan.zhihu.com/p/31626582)
+- [Rust编程 @ 知乎专栏](https://zhuanlan.zhihu.com/rust-lang)
+- [学Rust不会怀孕 系列 @ 知乎文章](https://zhuanlan.zhihu.com/p/26379949)
+- [Rust之不可为 系列 @ 知乎文章](https://zhuanlan.zhihu.com/p/31626582)
