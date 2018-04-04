@@ -19,6 +19,6 @@
 
 ### 官方资料翻译
 
-- [Rust Book I 中文](https://www.gitbook.com/book/kaisery/rust-book-chinese/details)
-- [Rust Book II 中文](https://www.gitbook.com/book/kaisery/trpl-zh-cn/details)
+- [《Rust Book I》 中文](https://www.gitbook.com/book/kaisery/rust-book-chinese/details)
+- [《Rust Book II》 中文](https://www.gitbook.com/book/kaisery/trpl-zh-cn/details)
 - [《Rust By Example CN》](https://github.com/rust-lang-cn/rust-by-example-cn)
