@@ -15,10 +15,10 @@
 ### 社区电子书
 
 - [《RustPrimer》](https://github.com/rustcc/RustPrimer)
-- [《Rust By Example CN》](https://github.com/rust-lang-cn/rust-by-example-cn)
 - [《Sapper Web开发》（写作中）]()
 
 ### 官方资料翻译
 
 - [Rust Book I 中文](https://www.gitbook.com/book/kaisery/rust-book-chinese/details)
 - [Rust Book II 中文](https://www.gitbook.com/book/kaisery/trpl-zh-cn/details)
+- [《Rust By Example CN》](https://github.com/rust-lang-cn/rust-by-example-cn)
