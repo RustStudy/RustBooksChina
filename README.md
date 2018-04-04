@@ -23,3 +23,9 @@
 - [《Rust Book II》 中文](https://www.gitbook.com/book/kaisery/trpl-zh-cn/details)
 - [《Rust By Example》中文](https://github.com/rust-lang-cn/rust-by-example-cn)
 - [《Rust 宏小册》中文](https://daseinphaos.github.io/tlborm-chinese/book/README.html)
+
+### 优秀博客与专栏
+
+- [Rust编程 @ 知乎](https://zhuanlan.zhihu.com/rust-lang)
+- [学Rust不会怀孕系列 @ 知乎](https://zhuanlan.zhihu.com/p/26379949)
+- [Rust 之不可为 @ 知乎](https://zhuanlan.zhihu.com/p/31626582)
