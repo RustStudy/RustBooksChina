@@ -12,6 +12,7 @@
 ### 国内正式出版原创书籍
 
 - [《Rust编程之道》（即将出版）]()
+  - [书号：ISBN 978-7-121-35485-4]()
   - [目前公开的完整目录](https://zhuanlan.zhihu.com/p/47179483)
   - [随书源码](https://github.com/ZhangHanDong/tao-of-rust-codes)
 - [ 《深入浅出Rust》（已出版）](https://book.douban.com/subject/30312231/)
